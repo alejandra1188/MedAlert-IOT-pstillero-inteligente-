@@ -97,3 +97,41 @@ Referencias
 - Arduino: https://docs.arduino.cc/
 - Espressif Systems: https://docs.espressif.com/
 - MIT App Inventor: https://appinventor.mit.edu/
+
+MARIA ALEJANDRA OCAMPO GOMEZ <est.mariaocampo@iedjgc.edu.co>
+15:40 (hace 1 minuto)
+para mí
+
+Materiales del prototipo
+
+- Microcontrolador ESP32.
+- Protoboard.
+- Sensor ultrasónico HC-SR04.
+- Pantalla LCD.
+- Servomotor.
+- Cables de conexión.
+- Resistencias y componentes electrónicos auxiliares.
+
+Funcionamiento del sistema
+
+MedAlert IoT es un pastillero inteligente diseñado para ayudar a recordar los horarios de los medicamentos. El ESP32 controla los componentes electrónicos y permite desarrollar funciones de recordatorio y registro. El sensor ultrasónico puede utilizarse para detectar objetos o la presencia de una mano, según la programación. La pantalla LCD permite mostrar información y el servomotor puede accionar un compartimiento.
+
+Las notificaciones móviles y el almacenamiento en la nube dependerán de la programación y de la conexión a internet implementadas.
+
+Estructura del repositorio
+
+- "firmware/": código fuente del ESP32.
+- "hardware/": esquemas y diseños electrónicos.
+- "docs/": documentación técnica del proyecto.
+- "images/": fotografías del prototipo y capturas de pantalla.
+- "README.md": descripción y guía del proyecto.
+
+Integrantes del equipo
+
+1. alejandra ocampo 1
+2. jimena vargas 2
+3. sofia romero 3 
+
+Estado del proyecto
+
+El proyecto se encuentra en etapa de desarrollo del prototipo electrónico. Se deben verificar las conexiones, programar el microcontrolador y comprobar el funcionamiento de los recordatorios y demás funciones propuestas.
